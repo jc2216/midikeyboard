@@ -29,6 +29,8 @@
 
 <img width="484" height="502" alt="Screenshot 2026-10-25 at 6 24 16 PM" src="https://github.com/user-attachments/assets/0384be98-5404-4033-8e37-39bac3a50c7a" />
 
+https://cad.onshape.com/documents/4fc3b71b01772681d883c97f/w/cad2a5591ffdc3dc252a0036/e/84e5be4e2e1320dfb467a09a
+
 - I cadded up an enclosure for the PCB so that it's easier to hold and there's more protection.
 - I'm not sure if this is the right way to CAD the enclosure but it looks okay for now.
 - There are holes for M3 screws to fasten the two components.
