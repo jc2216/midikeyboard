@@ -39,6 +39,6 @@
 - I got really confused with the firmware and CircuitPython and KMK.
 - I decided to just get the template code from the guide, and then change the pin numbers to reflect my schematic.
 - Will be working on firmware during build week.
-- I also don't really know how to upload the firmware to the microcontroller, so will also figure that out during firmware (it's probably easier when I have the physical board anyway).
+- I also don't really know how to upload the firmware to the microcontroller, so will also figure that out during build week (it's probably easier when I have the physical board anyway).
 
 
